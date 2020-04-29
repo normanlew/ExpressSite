@@ -1,0 +1,53 @@
+{
+    "projects": [
+        {
+            "id": "1001",
+            "project_name": "Random Quote Generator",
+            "description": "Generate random quotes on the screen",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://normanlew.github.io/A-Random-Quote-Generator/",
+            "github_link": "https://github.com/normanlew/A-Random-Quote-Generator",
+            "image_urls": ["./images/randomquotes1.png", "./images/randomquotes2.png", "./images/randomquotes3.png"]
+        },
+
+        {
+            "id": "1002",
+            "project_name": "List Pagination and Filtering",
+            "description": "Display only a handful of entries in directory for easier navigation",
+            "technologies": ["Javascript", "CSS Selectors", "DOM Manipulation", "ES2015", "Pagination", "Filtering"],
+            "live_link": "https://normanlew.github.io/List-pagination-and-filtering/",
+            "github_link": "https://github.com/normanlew/List-pagination-and-filtering",
+            "image_urls": ["./images/listpaginationandfiltering1", "./images/listpaginationandfiltering2"]
+        },
+
+        {
+            "id": "1003",
+            "project_name": "Interactive Form",
+            "description": "Collect information from user on an interactive and engaging form",
+            "technologies": ["HTML", "CSS", "JavaScript", "Regular Expressions"],
+            "live_link": "https://normanlew.github.io/Interactive-Form/",
+            "github_link": "https://github.com/normanlew/Interactive-Form",
+            "image_urls": ["./images/interactiveform1.png", "./images/interactiveform12.png"]
+        },
+
+        {
+            "id": "1004",
+            "project_name": "OOP Game Show App",
+            "description": "Wheel of Fortune type game",
+            "technologies": ["OOP", "Callback Functions", "HTML", "CSS", "JavaScript"],
+            "live_link": "https://normanlew.github.io/Game-Show-App/",
+            "github_link": "https://github.com/normanlew/Game-Show-App",
+            "image_urls": ["./images/OOPGameShowApp11.png", "./images/OOPGameShowApp12.png"]
+        },
+
+        {
+            "id": "1005",
+            "project_name": "Public API Requests",
+            "description": "An employee directory created via public API requests",
+            "technologies": ["AJAX", "Async Programming", "HTML", "CSS", "JavaScript"],
+            "live_link": "https://normanlew.github.io/Employee-Directory/",
+            "github_link": "https://github.com/normanlew/Employee-Directory",
+            "image_urls": ["./images/employeedirectory1.png", "./images/employeedirectory2.png"]
+        }
+    ]
+}
