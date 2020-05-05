@@ -1,7 +1,7 @@
 {
     "projects": [
         {
-            "id": "1001",
+            "id": "1",
             "project_name": "Random Quote Generator",
             "description": "Generate random quotes on the screen",
             "technologies": ["HTML", "CSS", "JavaScript"],
@@ -11,17 +11,17 @@
         },
 
         {
-            "id": "1002",
+            "id": "2",
             "project_name": "List Pagination and Filtering",
             "description": "Display only a handful of entries in directory for easier navigation",
             "technologies": ["Javascript", "CSS Selectors", "DOM Manipulation", "ES2015", "Pagination", "Filtering"],
             "live_link": "https://normanlew.github.io/List-pagination-and-filtering/",
             "github_link": "https://github.com/normanlew/List-pagination-and-filtering",
-            "image_urls": ["./images/listpaginationandfiltering1", "./images/listpaginationandfiltering2"]
+            "image_urls": ["./images/listpaginationandfiltering1.png", "./images/listpaginationandfiltering2.png"]
         },
 
         {
-            "id": "1003",
+            "id": "3",
             "project_name": "Interactive Form",
             "description": "Collect information from user on an interactive and engaging form",
             "technologies": ["HTML", "CSS", "JavaScript", "Regular Expressions"],
@@ -31,7 +31,7 @@
         },
 
         {
-            "id": "1004",
+            "id": "4",
             "project_name": "OOP Game Show App",
             "description": "Wheel of Fortune type game",
             "technologies": ["OOP", "Callback Functions", "HTML", "CSS", "JavaScript"],
@@ -41,7 +41,7 @@
         },
 
         {
-            "id": "1005",
+            "id": "5",
             "project_name": "Public API Requests",
             "description": "An employee directory created via public API requests",
             "technologies": ["AJAX", "Async Programming", "HTML", "CSS", "JavaScript"],
