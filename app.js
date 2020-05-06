@@ -14,6 +14,7 @@ app.get('/about', (req, res, next) => {
   res.render('about');
 });
 
+// Individual projects are currently accessible by sequential id numbers
 app.get('/projects/:id', (req, res, next) => {
   const { id } = req.params;
 

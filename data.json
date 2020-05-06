@@ -7,7 +7,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://normanlew.github.io/A-Random-Quote-Generator/",
             "github_link": "https://github.com/normanlew/A-Random-Quote-Generator",
-            "image_urls": ["./images/randomquotes1.png", "./images/randomquotes2.png", "./images/randomquotes3.png"]
+            "image_urls": ["./static/images/randomquotes1.png", "./static/images/randomquotes2.png", "./static/images/randomquotes3.png"]
         },
 
         {
@@ -17,7 +17,7 @@
             "technologies": ["Javascript", "CSS Selectors", "DOM Manipulation", "ES2015", "Pagination", "Filtering"],
             "live_link": "https://normanlew.github.io/List-pagination-and-filtering/",
             "github_link": "https://github.com/normanlew/List-pagination-and-filtering",
-            "image_urls": ["./images/listpaginationandfiltering1.png", "./images/listpaginationandfiltering2.png"]
+            "image_urls": ["./static/images/listpaginationandfiltering1.png", "./static/images/listpaginationandfiltering2.png"]
         },
 
         {
@@ -27,7 +27,7 @@
             "technologies": ["HTML", "CSS", "JavaScript", "Regular Expressions"],
             "live_link": "https://normanlew.github.io/Interactive-Form/",
             "github_link": "https://github.com/normanlew/Interactive-Form",
-            "image_urls": ["./images/interactiveform1.png", "./images/interactiveform12.png"]
+            "image_urls": ["./static/images/interactiveform1.png", "./static/images/interactiveform2.png"]
         },
 
         {
@@ -37,17 +37,17 @@
             "technologies": ["OOP", "Callback Functions", "HTML", "CSS", "JavaScript"],
             "live_link": "https://normanlew.github.io/Game-Show-App/",
             "github_link": "https://github.com/normanlew/Game-Show-App",
-            "image_urls": ["./images/OOPGameShowApp11.png", "./images/OOPGameShowApp12.png"]
+            "image_urls": ["./static/images/OOPGameShowApp1.png", "./static/images/OOPGameShowApp2.png"]
         },
 
         {
             "id": "5",
-            "project_name": "Public API Requests",
-            "description": "An employee directory created via public API requests",
+            "project_name": "static API Requests",
+            "description": "An employee directory created via static API requests",
             "technologies": ["AJAX", "Async Programming", "HTML", "CSS", "JavaScript"],
             "live_link": "https://normanlew.github.io/Employee-Directory/",
             "github_link": "https://github.com/normanlew/Employee-Directory",
-            "image_urls": ["./images/employeedirectory1.png", "./images/employeedirectory2.png"]
+            "image_urls": ["./static/images/employeedirectory1.png", "./static/images/employeedirectory2.png"]
         }
     ]
 }
