@@ -1,2 +1,2 @@
 # ExpressSite
- Personal website creating using Express
+ Personal website using Express
