@@ -1,5 +1,9 @@
+//- This pug shows error information
+
 extends layout.pug
 
 block content 
     h1= `${error.message} - Status: ${error.status}`
+    h2 Sorry, that webpage does not exist
+    h3 Error information:
     pre #{error.stack}

@@ -148,3 +148,12 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+body{
+  background-color: rgb(226, 226, 174);
+}
+
+h1{
+  font-family: cursive;
+  text-shadow: 2px 2px #658fad
+}

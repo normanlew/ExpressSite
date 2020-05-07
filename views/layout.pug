@@ -1,3 +1,5 @@
+//- Layout of webpage that is inherited by the other pages on this site
+
 <!DOCTYPE html>
 html(class="no-js" lang="en" dir="ltr")
   head
@@ -14,17 +16,15 @@ html(class="no-js" lang="en" dir="ltr")
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='../static/images/dog.jpg' style='width:550px; height:350px;')
+            img.thumbnail(src='../static/images/norman.jpeg')
           .cell.auto
 
-            //- Add your name here.
+            //- About, and link for additional bio info
             h5 Norman Lew
 
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
             p.text-light
               | Hi, I am a full stack developer in training.  I currently reside in Seattle.
 
-            //- Add about page route to the href below. 
             a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
@@ -32,7 +32,6 @@ html(class="no-js" lang="en" dir="ltr")
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
           span.title-bar-title Norman Lew
       block content
         

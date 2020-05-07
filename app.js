@@ -10,7 +10,6 @@ app.set('view engine', 'pug');
 app.use('/static', express.static('public'));
 
 app.get('/about', (req, res, next) => {
-  console.log('test2');
   res.render('about');
 });
 
@@ -28,7 +27,6 @@ app.get('/projects/:id', (req, res, next) => {
 });
 
 app.get('/', (req, res, next) => {
-  console.log('test');
   res.render('index', { projects });
 });
 
